@@ -1,0 +1,11 @@
+openpyxl
+sentence-transformers
+transformers
+langchain
+langchain_community
+langchain_huggingface
+streamlit
+faiss-cpu
+dotenv
+faiss-db
+Gorq
